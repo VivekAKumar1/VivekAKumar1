@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vivek Kumar
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding...
 - 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on companies
+- 📫 How to reach me Contact Number : 9690261999
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
